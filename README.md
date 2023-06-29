@@ -6,6 +6,7 @@ KiCad7 用回路図シンボルです。
 
 ## 使い方  
 Drafting_Symbols.kicad_symをシンボルライブラリに登録します。  
+KiCadの使い方は[公式ドキュメント](https://docs.kicad.org/7.0/ja/kicad/kicad.html)を参照してください。  
 
 ## 使用例  
 回路図エディターの表示オプション でフォントをArialに変更しています。  
