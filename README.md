@@ -12,10 +12,13 @@ CMOS回路を描くのに便利なシンボルが多く含まれます。
 
 ## 使用例  
 回路図エディターの表示オプション でフォントをArialに変更しています。  
-出力モードをモノクロにしてプロットしています。  
-<img src="doc/schematic1.png" width="500">  
+出力モードをモノクロにしてプロットしています。 
+ 
 CMOSオペアンプ  
-<img src="doc/schematic2.png" width="500">  
+<img src="doc/schematic1.png" width="500">  
+
 論理回路など  
-<img src="doc/schematic3.png" width="500">  
+<img src="doc/schematic2.png" width="500">  
+
 シンボル一覧(2023/12/14時点)  
+<img src="doc/schematic3.png" width="500">  
