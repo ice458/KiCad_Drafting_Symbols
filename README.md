@@ -7,7 +7,7 @@ CMOS回路を描くのに便利なシンボルが多く含まれます。MOSFET�
 ## 使い方  
 [Drafting_Symbols.kicad_sym](Drafting_Symbols.kicad_sym) をシンボルライブラリに登録するだけです。  
 [Drafting_Symbols.kicad_sym](Drafting_Symbols.kicad_sym) を Document/KiCad/9.0/symbols にコピーし、KiCadの設定からシンボルライブラリを追加してください。  
-カラープロファイルは[Drafting_Color.json](Drafting_Color.json) を AppData/Roaming/kicad/9.0/symbols
+カラープロファイルは[Drafting_Color.json](Drafting_Color.json) を AppData/Roaming/kicad/9.0/symbols にコピーし、KiCadの設定から選択してください。 
 詳しいKiCadの使い方は[公式ドキュメント](https://docs.kicad.org/9.0/ja/kicad/kicad.html)等を参照してください。  
 
 このシンボルを使ったサンプルは[こちら](sample)です。  
